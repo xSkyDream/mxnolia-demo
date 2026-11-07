@@ -63,7 +63,7 @@ class Component extends DCLogic {
       details: [
         { k: 'Technique', v: 'Peinture acrylique à la main' },
         { k: 'Support', v: 'Vinyle 33 tours' },
-        { k: 'Dimensions', v: '[DIAMÈTRE] cm' },
+        { k: 'Dimensions', v: '30 cm de diamètre (33 tours, 12 pouces)' },
         { k: 'Finition', v: '[VERNIS / PROTECTION]' },
         { k: 'Temps de création', v: '[DURÉE]' }
       ],
